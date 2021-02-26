@@ -1,0 +1,16 @@
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\CSharp.exe
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\CSharp.deps.json
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.json
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig.dev.json
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\CSharp.dll
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\ref\CSharp.dll
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\bin\Debug\net5.0\CSharp.pdb
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.dll
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\ref\CSharp.dll
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.pdb
+C:\Users\Z\source\repos\Git\CSharpDemo\CSharp\CSharp\obj\Debug\net5.0\CSharp.genruntimeconfig.cache
